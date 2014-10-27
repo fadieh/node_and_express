@@ -1,0 +1,23 @@
+{
+  "name": "Fadie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fadieh/node_and_express.git"
+  },
+  "author": "Fadie Hannona",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fadieh/node_and_express/issues"
+  },
+  "homepage": "https://github.com/fadieh/node_and_express",
+  "dependencies": {
+    "express": "^4.10.0"
+  }
+}
